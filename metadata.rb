@@ -1,0 +1,10 @@
+name 'poise-python'
+maintainer 'Green Logistics, LLC'
+maintainer_email 'contact@greenlogisticsllc.com'
+license 'GPL'
+description 'Quick hack to fix this for newer ubuntu'
+version '1.7.0'
+chef_version '>= 13.0'
+
+depends 'poise', '~> 2.7'
+depends 'poise-languages', '~> 2.0'
